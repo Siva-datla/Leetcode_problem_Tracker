@@ -1,0 +1,7 @@
+javac -cp gson-2.8.9.jar LeetCodeProblemTracker.java
+java -cp ".;.\gson-2.8.9.jar" LeetCodeProblemTracker
+
+
+javac -cp gson-2.8.9.jar LeetCodeProblemTrackerGUI.java
+java -cp ".;.\gson-2.8.9.jar" LeetCodeProblemTrackerGUI
+
